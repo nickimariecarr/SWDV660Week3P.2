@@ -9,7 +9,7 @@ http.createServer(function (request, response) {
 
    // Send the response body as "Week Two Homework, I hope I did it correctly"
    response.end('Ansible Playbook Assignment Week 3.\n')
-}).listen(3333)
+}).listen(3000)
 
 // Console will print the message
 console.log('Server running')
